@@ -1,0 +1,12 @@
+Source: ros-hydro-willow-maps
+Section: misc
+Priority: extra
+Maintainer: Dash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: http://pr.willowgarage.com/wiki/willow_maps
+Standards-Version: 3.9.2
+
+Package: ros-hydro-willow-maps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Holds maps of Willow Garage that can be used for a number of different applications.
