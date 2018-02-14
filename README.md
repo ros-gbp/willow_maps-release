@@ -1,3 +1,26 @@
+## willow_maps (kinetic) - 1.0.3-0
+
+The packages in the `willow_maps` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release willow_maps --rosdistro kinetic --track kinetic` on `Wed, 14 Feb 2018 04:14:13 -0000`
+
+The `willow_maps` package was released.
+
+Version of package(s) in repository `willow_maps`:
+
+- upstream repository: https://github.com/pr2/willow_maps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.3.6`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## willow_maps (indigo) - 1.0.2-1
 
 The packages in the `willow_maps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo willow_maps` on `Tue, 01 Sep 2015 16:40:53 -0000`
