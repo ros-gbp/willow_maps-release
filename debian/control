@@ -1,0 +1,12 @@
+Source: ros-melodic-willow-maps
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://pr.willowgarage.com/wiki/willow_maps
+Standards-Version: 3.9.2
+
+Package: ros-melodic-willow-maps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Holds maps of Willow Garage that can be used for a number of different applications.
