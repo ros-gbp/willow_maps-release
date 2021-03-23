@@ -1,3 +1,26 @@
+## willow_maps (noetic) - 1.0.3-1
+
+The packages in the `willow_maps` repository were released into the `noetic` distro by running `/usr/bin/bloom-release willow_maps --rosdistro noetic --track noetic` on `Tue, 23 Mar 2021 06:24:01 -0000`
+
+The `willow_maps` package was released.
+
+Version of package(s) in repository `willow_maps`:
+
+- upstream repository: https://github.com/pr2/willow_maps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.2`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## willow_maps (melodic) - 1.0.3-0
 
 The packages in the `willow_maps` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y willow_maps --track melodic --rosdistro melodic` on `Wed, 29 Aug 2018 14:01:46 -0000`
